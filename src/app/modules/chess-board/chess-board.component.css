@@ -2,8 +2,8 @@
   display: flex;
   justify-content: center;
   flex-direction: column-reverse;
-  width: 580px;
-  height: 580px;
+  width: 480px;
+  height: 480px;
 }
 
 .rotated {
@@ -39,7 +39,7 @@
 }
 
 .promotion-dialog img {
-  height: 60px;
+  height: 70px;
   cursor: pointer;
 }
 
